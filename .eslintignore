@@ -1,1 +1,2 @@
-vite.config.*
+node_modules/
+vite.*
